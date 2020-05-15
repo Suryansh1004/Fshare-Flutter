@@ -13,7 +13,7 @@ follow other users,  and can see others post, etc. </br>
 
 Download or clone this repo by using the link below:
 
-```https://github.com/Suryansh1004/Fshare-master.git```
+```https://github.com/Suryansh1004/Fshare-Flutter.git```
 
 **Step 2:**
 
