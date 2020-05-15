@@ -1,7 +1,6 @@
 # Fshare
 A simple social media app build with flutter.</br>
-**Fshare**- Using this application users can log in and register using the Google account and set up their profile then the user can add posts to their timeline,</br>
-follow other users,  and can see others post, etc. </br>
+**Fshare**- Using this application users can log in and register using the Google account and set up their profile then the user can add posts to their timeline, follow other users,  and can see others post, etc. </br>
 
 <p align="center">
 <img src="./fshare-master/assets/images/login.jpg" width="300" height="500"></br></p>
