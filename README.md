@@ -111,5 +111,5 @@ pages/
 </p>
  
   <br>
-If you liked this project, don’t forget to ⭐ star the repo to show your support.
+If you liked this project, don’t forget to ⭐ star the repo.
 
